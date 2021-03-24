@@ -1,0 +1,5 @@
+//Configuraciones agreagar
+{
+    "presets": ["@babel/preset-env"], //Trabajar con js moderno
+    "plugins": ["@babel/plugin-transform-runtime"] //plugins que va autilizar babel
+}
